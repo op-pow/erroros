@@ -13,8 +13,7 @@ Welcome to the official repository for **ErrorOS**! This project is an ongoing e
 ## 🚀 Getting Started
 
 ### Prerequisites
-Python 3.x, os, tkinterweb. get tkinterweb by using this command.
-
+Python 3.x, os, tkinterweb, pywebview.
 
 ### Installation
 1.  Get pywebview
