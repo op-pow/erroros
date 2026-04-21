@@ -20,3 +20,7 @@ Welcome to the official repository for **ErrorOS**! This project is an ongoing e
    ```bash
    git clone https://github.com/op-pow/erroros.git
   
+2. Navigate to the project directory:
+
+```bash
+cd erroros
