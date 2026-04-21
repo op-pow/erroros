@@ -17,14 +17,17 @@ Python 3.x, os, tkinterweb. get tkinterweb by using this command.
 
 
 ### Installation
-1. Get tkinterweb
+1.  Get pywebview
+    ```bash
+    pip install pywebview
+2. Get tkinterweb
     ```bash
     pip install tkinterweb
-2. Clone the repository:
+3. Clone the repository:
    ```bash
    git clone https://github.com/op-pow/erroros.git
   
-3. Navigate to the project directory:
+4. Navigate to the project directory:
 
 ```bash
    cd erroros
