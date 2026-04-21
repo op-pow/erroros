@@ -13,20 +13,17 @@ Welcome to the official repository for **ErrorOS**! This project is an ongoing e
 ## 🚀 Getting Started
 
 ### Prerequisites
-Python 3.x, os, tkinterweb, pywebview.
+Python 3.x, os, tkinterweb.
 
 ### Installation
-1.  Get pywebview
-    ```bash
-    pip install pywebview
-2. Get tkinterweb
+1. Get tkinterweb
     ```bash
     pip install tkinterweb
-3. Clone the repository:
+2. Clone the repository:
    ```bash
    git clone https://github.com/op-pow/erroros.git
   
-4. Navigate to the project directory:
+3. Navigate to the project directory:
 
 ```bash
    cd erroros
