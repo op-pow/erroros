@@ -13,17 +13,20 @@ Welcome to the official repository for **ErrorOS**! This project is an ongoing e
 ## 🚀 Getting Started
 
 ### Prerequisites
-Python 3.x, os, tkinterweb.
+Python 3.x, os, tkinterweb, cefpython3.
 
 ### Installation
-1. Get tkinterweb
+1. Get cefpython3
+   ```bash
+   pip install cefpython3
+2.  Get tkinterweb
     ```bash
     pip install tkinterweb
-2. Clone the repository:
+3. Clone the repository:
    ```bash
    git clone https://github.com/op-pow/erroros.git
   
-3. Navigate to the project directory:
+4. Navigate to the project directory:
 
 ```bash
    cd erroros
