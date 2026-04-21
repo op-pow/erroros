@@ -13,7 +13,7 @@ Welcome to the official repository for **ErrorOS**! This project is an ongoing e
 ## 🚀 Getting Started
 
 ### Prerequisites
-* *(List what someone needs to run this. For example: Python 3.x if you are building a Python app, or simply a web browser if it's hosted online via TurboWarp/PenguinMod)*
+Python 3.x, os.
 
 ### Installation
 1. Clone the repository:
