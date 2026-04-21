@@ -13,12 +13,12 @@ Welcome to the official repository for **ErrorOS**! This project is an ongoing e
 ## 🚀 Getting Started
 
 ### Prerequisites
-Python 3.x, os, tkinterweb, cefpython3.
+Python 3.x, os, tkinterweb, PyQt6.
 
 ### Installation
-1. Get cefpython3
+1. Get PyQt6
    ```bash
-   pip install cefpython3
+   pip install PyQt6 PyQt6-WebEngine
 2.  Get tkinterweb
     ```bash
     pip install tkinterweb
