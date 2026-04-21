@@ -13,8 +13,9 @@ Welcome to the official repository for **ErrorOS**! This project is an ongoing e
 ## 🚀 Getting Started
 
 ### Prerequisites
-Python 3.x, os, tkinterweb. (get tkinterweb by using this command. ```bash
- pip install tkinterweb)
+Python 3.x, os, tkinterweb. get tkinterweb by using this command.
+```bash
+ pip install tkinterweb
 
 ### Installation
 1. Clone the repository:
